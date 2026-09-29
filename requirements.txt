@@ -1,0 +1,8 @@
+# Packages imported by the notebooks
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+scipy>=1.10
+scikit-learn>=1.4   # 1.4+ is needed for sklearn.metrics.root_mean_squared_error (Part 3)
+# To open and run the notebooks
+jupyter
